@@ -1,0 +1,14 @@
+{
+  "name": "calendaroo",
+  "version": "1.0.0",
+  "description": "A pure js calendar app with no dependencies built to calculate complex event recurrences.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "Torin Halsted",
+  "license": "ISC"
+}
